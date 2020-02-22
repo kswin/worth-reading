@@ -1,4 +1,4 @@
-# worth_reading
+# worth-reading
 a list of things worth reading
 
 Shout out to [@jbodah](https://github.com/jbodah/worth_reading) for this idea!
